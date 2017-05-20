@@ -1,3 +1,0 @@
-[27-Jan-2017 12:29:58 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/mrfypts2015/public_html/wp-content/themes/aqueduct/index.php on line 6
-[20-Mar-2017 14:28:44 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/mrfypts2015/public_html/wp-content/themes/aqueduct/404.php on line 8
-[24-Mar-2017 02:54:42 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/mrfypts2015/public_html/wp-content/themes/aqueduct/404.php on line 8
